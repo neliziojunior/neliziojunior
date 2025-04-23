@@ -1,16 +1,47 @@
-## Hi there 👋
+<!-- Banner animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Olá,%20eu%20sou%20Nelizio%20Junior!&fontSize=30&fontColor=ffffff" />
 
-<!--
-**neliziojunior/neliziojunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Sobre mim -->
+<h2>👨‍💻 Sobre mim</h2>
+<p>Sou formado em Direito, mas encontrei minha verdadeira paixão na tecnologia! Atualmente estudo Desenvolvimento Full Stack na Infinity School, aprendendo JavaScript, Python e bancos de dados. Estou explorando ideias de startups com IA e desenvolvendo projetos práticos como detecção de emoções com webcam.</p>
 
-Here are some ideas to get you started:
+<!-- Tecnologias -->
+<h2>🚀 Tecnologias que uso e estudo</h2>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Stats -->
+<h2>📊 Minhas Estatísticas</h2>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neliziojunior&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neliziojunior&layout=compact&theme=tokyonight" />
+</p>
+
+<!-- Contato -->
+<h2>📫 Como me encontrar</h2>
+<p>
+  <a href="https://www.linkedin.com/in/neliziojunior" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<!-- Animação divertida -->
+<h2>✨ Curiosidade tech em loop</h2>
+<div id="tech-blink" style="font-size: 2em; display: flex; gap: 10px;"></div>
+
+<script>
+  const icons = ["💻", "🌐", "📱", "🧠", "📊"];
+  let i = 0;
+  setInterval(() => {
+    const el = document.getElementById('tech-blink');
+    el.innerHTML = icons[i];
+    i = (i + 1) % icons.length;
+  }, 1000);
+</script>
+
+
