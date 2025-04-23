@@ -25,7 +25,7 @@
 <!-- Contato -->
 <h2>📫 Como me encontrar</h2>
 <p>
-  <a href="https://www.linkedin.com/in/neliziojunior" target="_blank">
+  <a href="https://www.linkedin.com/in/nelizio-lefundes-do-carmo-j%C3%BAnior-314443278/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
