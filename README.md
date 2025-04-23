@@ -30,18 +30,8 @@
   </a>
 </p>
 
-<!-- Animação divertida -->
-<h2>✨ Curiosidade tech em loop</h2>
-<div id="tech-blink" style="font-size: 2em; display: flex; gap: 10px;"></div>
 
-<script>
-  const icons = ["💻", "🌐", "📱", "🧠", "📊"];
-  let i = 0;
-  setInterval(() => {
-    const el = document.getElementById('tech-blink');
-    el.innerHTML = icons[i];
-    i = (i + 1) % icons.length;
-  }, 1000);
-</script>
+
+
 
 
