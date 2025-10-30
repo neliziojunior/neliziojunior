@@ -3,7 +3,9 @@
 
 <!-- Sobre mim -->
 <h2>👨‍💻 Sobre mim</h2>
-<p>Sou formado em Direito, mas encontrei minha verdadeira paixão na tecnologia! Atualmente estudo Desenvolvimento Full Stack na Infinity School, aprendendo JavaScript, Python e bancos de dados. Estou explorando ideias de startups com IA e desenvolvendo projetos práticos como detecção de emoções com webcam.</p>
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas e aspirante a desenvolvedor Front-end. Possuo conhecimentos em HTML e CSS, e estou aprimorando minhas habilidades em JavaScript para criar interfaces intuitivas, responsivas e de alta performance.
+
+Atualmente, estou me aprofundando em React e Tailwind CSS para desenvolver aplicações mais dinâmicas e envolventes. Tenho como meta evoluir para o desenvolvimento Full Stack, integrando a criatividade do front-end com a lógica do back-end em Node.js. Busco uma oportunidade para aplicar meus conhecimentos, aprender com profissionais da área e transformar ideias em soluções digitais eficientes e escaláveis.</p>
 
 <!-- Tecnologias -->
 <h2>🚀 Tecnologias que uso e estudo</h2>
