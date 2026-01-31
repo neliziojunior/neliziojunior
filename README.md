@@ -19,12 +19,6 @@ Focused on clean code, continuous learning and collaboration.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
 </p>
 
-<h2>📊 GitHub Stats</h2>
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neliziojunior&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neliziojunior&layout=compact&theme=tokyonight" />
-</p>
-
 <h2>📫 Contact</h2>
 <p>
   <a href="https://www.linkedin.com/in/neliziojunior/" target="_blank">
