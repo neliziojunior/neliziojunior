@@ -32,12 +32,6 @@ Focused on clean architecture, best practices and continuous learning.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
 </p>
 
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neliziojunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neliziojunior&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 <h2>📫 Contact</h2>
 <p>
